@@ -1,0 +1,22 @@
+{
+  "name": "javascriptdatestruction",
+  "version": "1.0.0",
+  "description": "JavaScript数据结构和算法",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": "git+https://github.com/HengistChan/JavaScript-Algorithm.git",
+  "author": "'HengistChan' <'HengistChan@outlook.com'>",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/HengistChan/JavaScript-Algorithm/issues"
+  },
+  "homepage": "https://github.com/HengistChan/JavaScript-Algorithm#readme",
+  "devDependencies": {
+    "@babel/core": "^7.12.17",
+    "@babel/preset-env": "^7.12.17",
+    "babel-jest": "^26.6.3",
+    "jest": "^26.6.3"
+  }
+}
